@@ -137,3 +137,5 @@ dmypy.json
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/py-upload-service.iml
 /.idea/vcs.xml
+.idea/flask-tutorial.iml
+.idea/workspace.xml
