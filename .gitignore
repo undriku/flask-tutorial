@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # idea files
-./.idea
+.idea/.idea
 
 # C extensions
 *.so
@@ -130,3 +130,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/py-upload-service.iml
+/.idea/vcs.xml
